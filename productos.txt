@@ -1,0 +1,5 @@
+ID1;ProductB;20.5
+ID2;ProductE;20.5
+ID3;ProductB;15.0
+ID4;ProductD;20.5
+ID5;ProductB;7.75
